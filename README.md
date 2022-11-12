@@ -1,7 +1,5 @@
 # curso-frontend
 
-### EBAC
-
 # GIT
 ## Conceitos de versionamento
  - Histórico
@@ -32,9 +30,9 @@ https://git-scm.com/
  - após testado todo seu código
  -git add *
  -git commit -m 'mensagem'
- -git add *
- -git commit -m 'mensagem'
+ -git push (enviar para repositório)
  
+
  
 
  > git add *
