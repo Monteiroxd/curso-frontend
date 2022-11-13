@@ -31,7 +31,8 @@ https://git-scm.com/
  -git add *
  -git commit -m 'mensagem'
  -git push (enviar para repositório)
- 
+ -git pull (puxar / trazer alterações do GITHUB para minha maquina)
+
 
  
 
@@ -42,3 +43,11 @@ https://git-scm.com/
 
 ## GitFlow
 Fluxo do Git
+
+### Branch
+São remificações / versões paralelas
+
+- main / master (vai para produção, quando o projeto é publicado)
+- develop
+- DOD Definition of Done: Critério de aceite
+- versonamento 1.0.0
