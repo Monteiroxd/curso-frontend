@@ -55,6 +55,19 @@ São ramificações / versões paralelas
 git checkou -b (cria uma branch)
 git checkout master (muda de branch)
 
+
 ### merge
 Mescla de branch
+você pode precisar resolver conflitos manualmente
+
+git merge main 
+
+### pull requests
+mescla de branchs no repositório
+permite code review
+O repositório resolve os conflitos automaticamente
+
+## configurar o GITflow
+git flow init
+git flow feature start {nome-da-feature}
 
