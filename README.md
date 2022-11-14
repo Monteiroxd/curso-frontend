@@ -45,9 +45,29 @@ https://git-scm.com/
 Fluxo do Git
 
 ### Branch
-São remificações / versões paralelas
+São ramificações / versões paralelas
 
 - main / master (vai para produção, quando o projeto é publicado)
 - develop
 - DOD Definition of Done: Critério de aceite
 - versonamento 1.0.0
+
+git checkou -b (cria uma branch)
+git checkout master (muda de branch)
+
+
+### merge
+Mescla de branch
+você pode precisar resolver conflitos manualmente
+
+git merge main 
+
+### pull requests
+mescla de branchs no repositório
+permite code review
+O repositório resolve os conflitos automaticamente
+
+## configurar o GITflow
+git flow init
+git flow feature start {nome-da-feature}
+
