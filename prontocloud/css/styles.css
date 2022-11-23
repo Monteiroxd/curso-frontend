@@ -25,6 +25,7 @@ body {
 
 header {
     background: #fff;
+    text-align: center;
     display: block;
     float: left;
     padding: 20px;
@@ -43,6 +44,7 @@ h2 {
     color: #254159;
     margin-bottom: 20px;
 }
+
 
 h3 {
     font-size: 1.8rem;
@@ -93,6 +95,7 @@ ol li {
     font-size: 1.4rem;
     color: #454545;
 }
+
 
 section {
     background-color: #fff;
