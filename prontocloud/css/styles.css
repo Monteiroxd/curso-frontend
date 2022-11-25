@@ -78,13 +78,14 @@ img {
 
 #tenho-interesse form,
 .cognito.c-med .c-forms-form,
-.cognito.c-med .c-forms-form div {
-    background-color: #b8c8d6 !important;
+.cognito.c.med .c-forms-form div {
+    --form__background-color: #b8c8d6
 }
 
 #tenho-interesse .cognito .c-forms-form .c-forms-form-title h2,
-#tenho-interesse .cognito label[for], .cognito input[type=radio], .cognito input[type=checkbox] {
-    color: #385874;
+#tenho-interesse .cognito label[for], .cognito input[type=radio], .cognito input[type=checkbox],
+#tenho-interesse .cog-cognito--styled .cog-header {
+    color: #297ac0;
 }
 
 ol {
@@ -156,7 +157,7 @@ footer small {
 }
 
 .cognito {
-    height: 350px !important;
+    height: 390px !important;
     overflow: hidden !important;
 }
 
