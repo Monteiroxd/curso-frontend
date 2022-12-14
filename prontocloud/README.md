@@ -46,4 +46,4 @@ Objetivo: Capturar o máximo de leads possível.
 5. Convidar pessoas nas redes sociais para sua landing page (página de destino / pouso)
 6. Enviar Newsletter para list de contatos com link para página do post: https://putsmail.com
 7. Commitar código no seu repositório do GitHub
-8. Enviar links para avaliação na plataforma da EBAC
+8. Enviar links para avaliação na plataforma da EBAC.
