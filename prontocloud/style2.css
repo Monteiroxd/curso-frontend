@@ -1,0 +1,303 @@
+
+html {
+               font-size: 62.5%;
+           }
+           
+           body {
+               background-color: #4e9db9; 
+               font-family: 'Open Sans', sans-serif;
+           }
+           
+           .main-container {
+               display: block;
+               width: 100%;
+               margin: 0 auto;
+               overflow: hidden;
+           }
+
+           .container {
+            display: block;
+            float: center;
+            padding: 0;
+            margin: 0 1%;
+            max-width: 1198px;
+            width: 90%;
+        }
+
+       
+
+        
+        h1 {
+            text-align: left;
+            font-size: 1.8rem;
+            color: #000000;
+            margin-bottom: 20px;
+            padding: 10px 70px;
+            
+        }
+        
+        
+        h3 {
+            font-size: 2rem;
+            color: #010101;
+            margin-bottom: 20px;
+            padding-top: 10px;
+        }
+        
+        h4 {
+            font-size: 1.6rem;
+            color: #000000;
+            margin-bottom: 10px;
+            padding-top: 10px;
+        }
+        
+        p {
+            margin-bottom: 10px;
+            line-height: 1.4;
+            color: #333;
+        }
+
+        #tenho-interesse {
+            background-color: #b8c8d6;
+            width: 100%;
+        }
+        
+        #tenho-interesse form,
+        .cognito.c-med .c-forms-form,
+        .cognito.c.med .c-forms-form div {
+            --form__background-color: #b8c8d6
+        }
+        
+        #tenho-interesse .cognito .c-forms-form .c-forms-form-title h2,
+        #tenho-interesse .cognito label[for], .cognito input[type=radio], .cognito input[type=checkbox],
+        #tenho-interesse .cog-cognito--styled .cog-header {
+            color: #297ac0;
+        }
+
+        #tenho-interesse .cog-cognito--styled .cog-header h1 {
+            color: #297ac0;
+            text-align: left;
+            padding: 10px 55px;
+        }
+        
+           
+
+           .footer {
+            
+            display: block;
+            float: left;
+            padding: 20px;
+            max-width: 100%;
+            margin: 0 auto;
+            max-width: 1198px;
+            
+           }
+
+      
+           #banner {
+            background-image: url(./images/banner.png);
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            width: 100vw;
+            height: 60vh;
+           }
+
+           .legenda-container {
+            float: right;
+            margin: 6vh 10vh 0 0;
+            width: 20vw;
+           }
+
+           .legenda  {
+            background-color: rgba(255, 255, 255, .6);
+            padding: 20px;
+            border-radius: 5px;
+            margin-bottom: 5rem;
+            
+           }
+
+           .legenda,h2 {
+            font-size: 1.8rem;
+            color: #000000;
+            line-height: 150%;
+           }
+           
+           .button-cta {
+            border-radius: 25px;
+            display: inline;
+            background-color: orangered;
+            color: #fff;
+            font-size: 1.8rem;
+            text-transform: uppercase;
+            box-shadow: 1px 1px 4px #454545;
+            padding: 10px 15px;
+            width: auto;
+            text-decoration: none;
+            font-weight: 300;
+            float: right;
+           }
+
+           .text-cta {
+            float: left;
+            padding: 20px 40px;
+           }
+
+           #saiba-mais {
+            background-color: #4e9db9;
+            padding: 40px 60px;
+           }
+
+           #saiba-mais p,
+           #saiba-mais img {
+            width: 45%;
+            display: block;
+            float: left;
+            padding: 20px;
+            
+           }
+
+           dl {
+            margin: 20px 17px;
+           }
+
+           dt {
+            font-family: 'Open Sans';
+            font-weight: 700;
+            font-size: 1.6;
+        }
+        
+        dd {
+            margin-left: 20px;
+            margin-bottom: 20px;
+            font-size: 1.4;
+           }
+           
+           
+           header {
+               background: #fff;
+               text-align: left;
+               display: block;
+               float: left;
+               padding: 20px 0;
+               width: 100%;
+               border-bottom: 1px solid #254159;
+           }
+        
+        
+           
+           img {
+            padding: 0 20px;
+            max-width: 100%;
+            height: auto;
+           }
+           
+           
+           ol {
+               margin-left: 30px;
+           }
+           
+           ol li {
+               font-size: 1.4rem;
+               color: #454545;
+           }
+           
+           
+           section {
+               background-color: #ffffff;
+               display: block;
+               float: left;
+               font-size: 1.5rem; /* equivalente a 15px */ 
+               padding: 25px 60px;
+               width: 100%;
+           }
+           
+           nav {
+               display: block;
+               float: left;
+               width: 30%;
+           }
+           
+           nav li {
+            border-radius: 1rem;
+            text-align: center;
+            background-color: orangered;
+            margin: 9px 20px 8px 0px;
+            padding: 13px;
+            font-size: 1.6rem;
+           }
+           
+           nav li:hover {
+               background-color: #000000;
+           }
+           
+           nav a {
+               text-decoration: none;
+               color: #ffffff;
+           }
+           
+           nav a:hover {
+               color: #ffffff;
+           }
+           
+           section article {
+               display: block;
+               float: left;
+               width: 70%;
+           }
+           
+           footer {
+            background-color: #254159;  
+            display: block;
+            float: left;
+            padding: 20px 0px;
+            width: 100%;
+        }
+        
+        footer p {
+            color: #ffffff;
+            font-size: 1.4rem;
+        }
+        
+        footer small {
+            font-size: 80%;
+            display: block;
+        }
+        
+        .cognito {
+            height: 390px !important;
+            overflow: hidden !important;
+        }
+        
+        .cog-abuse {
+            height: 390px !important;
+            overflow: hidden !important;
+        }
+
+          
+           
+           @media (max-width: 425px) {
+               section nav,
+               section article {
+                   width: 100%;
+               }  
+           
+               .container {
+                   padding-left: 1%;
+                   padding-right: 1%;
+               }
+           }
+
+           @media (max-width: 425px) {
+            footer {
+                width: 100%;
+            }
+
+           }
+
+           .footer {
+            padding-left: 1%;
+            padding-right: 1%;
+           }
+                                        
+                                        

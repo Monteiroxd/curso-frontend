@@ -34,3 +34,16 @@
 - Post para redes sociais: texto + foto + url curta
 - Incluir hospedagem (servidor web) 
 - Git - histórico de evolução (commits detalhados)
+
+### Exercício 
+Fluxo completo
+Objetivo: Capturar o máximo de leads possível.
+
+1. Criar Landing Page
+2. Criar Newsletter
+3. Publicar projeto em um servidor web: https://app.infinityfree.net/
+4. Criar URL amigável para compartilhamento: https://bit.ly/3W6bO4i
+5. Convidar pessoas nas redes sociais para sua landing page (página de destino / pouso)
+6. Enviar Newsletter para list de contatos com link para página do post: https://putsmail.com
+7. Commitar código no seu repositório do GitHub
+8. Enviar links para avaliação na plataforma da EBAC
